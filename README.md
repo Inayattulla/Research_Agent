@@ -1,57 +1,31 @@
-Overview
-Research Agent is an AI-powered system designed to assist academic and scientific research by automating literature search, paper summarization, citation management, hypothesis suggestion, and report generation. It uses natural language processing and machine learning to understand research queries and retrieve relevant information efficiently, saving researchers time and increasing research accuracy.
+# 🧠 Research Agent
 
-Features
-Automated literature search across multiple academic databases
+**Research Agent** is an AI-powered assistant built to streamline academic and scientific research. It automates key tasks such as literature search, paper summarization, citation management, hypothesis generation, and report drafting — all through natural language interaction.
 
-Summarization of research papers into concise insights
+---
 
-Organized reference and citation management
+## 📌 Overview
 
-Natural language question answering for complex research topics
+Research Agent leverages **Natural Language Processing (NLP)** and **Machine Learning (ML)** to understand complex research queries and deliver accurate, timely results. Designed for researchers, students, and academicians, it reduces the time spent on repetitive tasks and enhances the overall quality and efficiency of research work.
 
-Hypothesis generation based on data trends and literature analysis
+---
 
-Draft report and research section creation
+## ✨ Features
 
-Real-time updates with latest publications and data sources
+- 🔎 **Automated Literature Search**
+- 🧠 **Research Paper Summarization**
+- 📚 **Citation & Reference Management**
+- ❓ **Natural Language Q&A**
+- 💡 **Hypothesis Generation**
+- 📄 **Draft Writing**
+- 🔄 **Real-Time Updates**
 
-Installation
-Ensure Python 3.8+ is installed
+---
 
-Clone the repository
+## ⚙️ Installation
 
-Install dependencies:
-
-bash
-pip install -r requirements.txt  
-Set up API keys for academic databases as needed
-
-Usage
-Input a research question or topic in natural language
-
-The agent retrieves and ranks relevant papers
-
-Generates summaries and extracts key data
-
-Provides citation lists in standard formats (APA, MLA, etc.)
-
-Supports export of draft text and reports
-
-System Requirements
-Python environment with required libraries (transformers, pandas, etc.)
-
-Internet connection for API access to research databases
-
-Optional GPU for accelerated model inference
-
-Contributing
-Contributions are welcome. Please submit issues or pull requests to improve document parsing, add new databases, or enhance summarization models.
-
-License
-This project is licensed under the MIT License.
-
-Contact
-For questions or support, please contact [your-email@example.com].
-
-You can customize and expand this template according to your final implementation details.
+1. Ensure Python 3.8+ is installed  
+2. Clone this repository
+```bash
+https://github.com/Inayattulla/Research_Agent.git
+cd research-agent
